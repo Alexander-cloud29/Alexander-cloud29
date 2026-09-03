@@ -1,4 +1,4 @@
-<h1 align="center">Hai, aku Alex 👋</h1>
+<h1 align="center">Hai, aku Alexander 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Informatics+Student;Web+Developer;Selalu+belajar+hal+baru;Welcome+to+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" />
@@ -59,24 +59,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexander-cloud29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-cloud29&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Alexander-cloud29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alexander-cloud29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-cloud29&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander-cloud29&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Alexander-cloud29&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🤝 Terhubung Denganku
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center"><i>Terima kasih sudah mampir! ⭐ dari repo yang kamu suka sangat dihargai.</i></p>
